@@ -1,4 +1,4 @@
-# reservation-ticket-cinema
+# Site de réservation de tickets de Cinéma
 
 Réservation Ticket est une plateforme de réservation de cinéma en ligne qui permet aux utilisateurs de réserver facilement des billets de cinéma. Elle offre une expérience pratique pour les amateurs de cinéma, leur permettant d'explorer les films actuels, les horaires des séances et de réserver leurs places directement depuis leurs appareils mobiles ou leurs ordinateurs.
 
